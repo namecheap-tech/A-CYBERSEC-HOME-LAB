@@ -1,2 +1,3 @@
-# A-CYBERSEC-HOME-LAB
-A CYBERSEC HOME LAB
+Cybersecurity Home Lab Setup (Comprehensive Step-by-Step Guide) This guide provides a structured, end-to-end approach for creating a personal cybersecurity home lab. It equips students and professionals with a controlled virtual environment for safely exploring both offensive and defensive security practices.
+
+Inside, you’ll find clear explanations of hardware prerequisites, virtual machine setup, network configuration, deployment of vulnerable systems, and installation of core security tools. Supported by screenshots and practical instructions, this guide enables anyone to build a fully functional lab for skill development, hands-on experimentation, or certification training.
